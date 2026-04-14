@@ -1,4 +1,5 @@
 # Red Dead Redemption 2 – Van der Linde Gang Carousel
+<img width="1159" height="841" alt="image" src="https://github.com/user-attachments/assets/61c007b9-4eb4-4ca7-bd22-46fc9a47d121" />
 
 ## Overview
 
