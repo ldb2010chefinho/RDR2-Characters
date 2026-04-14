@@ -62,4 +62,4 @@ This project demonstrates the application of fundamental web development princip
 ---
 
 ## Visit the Website!!!
- [Click Here!!!] (https://ldb2010chefinho.github.io/RDR2-Characters/)
+ [Click Here!!!](https://ldb2010chefinho.github.io/RDR2-Characters/)
